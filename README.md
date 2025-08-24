@@ -5,7 +5,9 @@
 💻 Currently focused on backend development as a **Python Engineer**, exploring modern web frameworks and cloud-native technologies.
 
 ---
-
+## 📜 Personal Blog
+[Learn more about me](https://fuxingg.github.io/)
+---
 ## 🛠️ Tech Stack
 
 <p align="left">
