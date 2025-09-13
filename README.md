@@ -2,7 +2,7 @@
 
 🎓 I'm a university student majoring in **Artificial Intelligence**, passionate about building robust and scalable software.
 
-💻 Currently focused on backend development as a **Python Engineer**, exploring modern web frameworks and cloud-native technologies.
+💻 Currently focused on backend development and LLM applications as a **Python Engineer**, exploring modern web frameworks and cloud-native technologies.
 
 ---
 ## 📜 Personal Blog
